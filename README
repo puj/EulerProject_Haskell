@@ -7,3 +7,4 @@ Problems skipped:
 
 Additional Notes:
 11 - When I get better at Haskell, rewrite this
+12 - Takes a few seconds to run, using prime decomp

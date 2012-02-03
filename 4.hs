@@ -12,6 +12,9 @@
 	...
 
 	Then I wouldn't have to guarantee N^2, it would just be theoretical worst case .
+
+UPDATE : ADD THIS!!!! 
+var n = 7; for(var i = n; i > 0; i--){for(var j = n; j > i;j --){ console.debug (i + ", " + j + " : " + (i*j));}}
 --}
 
 -- Get all possible products which are palindrome

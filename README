@@ -9,3 +9,4 @@ Additional Notes:
 11 - When I get better at Haskell, rewrite this
 12 - Takes a few seconds to run, using prime decomp
 13 - Cases for no carry should be more concise.
+16 - Uses STUMonad
